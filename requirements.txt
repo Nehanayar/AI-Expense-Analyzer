@@ -12,3 +12,4 @@ joblib
 numpy
 transformers
 huggingface-hub
+bcrypt
