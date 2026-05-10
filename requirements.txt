@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+sentence-transformers
+torch
+scikit-learn
+matplotlib
+reportlab
+python-dotenv
+prophet
+joblib
+numpy
+transformers
+huggingface-hub
