@@ -125,7 +125,35 @@ Users can ask:
 
 # 📸 Screenshots
 
-(Add project screenshots here)
+## Login Page
+![Login](screenshots/login.png)
+
+## Register Page
+![Register](screenshots/register.png)
+
+## Add Expense
+![Add Expense](screenshots/addexpense.png)
+
+## View Expenses
+![View Expenses](screenshots/viewexpense.png)
+
+## Dashboard Overview
+![Dashboard](screenshots/dashboard1.png)
+
+## Dashboard Analytics
+![Dashboard Analytics](screenshots/dashboard2.png)
+
+## AI Insights
+![AI Insights](screenshots/dashboard3.png)
+
+## Chatbot
+![Chatbot](screenshots/chatbot.png)
+
+## Report Generation
+![Report](screenshots/report.png)
+
+## PDF Report
+![PDF Report](screenshots/reportpdf.png)
 
 ---
 
