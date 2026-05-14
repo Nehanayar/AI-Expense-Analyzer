@@ -4,6 +4,11 @@ An AI-powered expense tracking and forecasting web application built using Pytho
 
 ---
 
+## 🌐 Live Demo
+
+👉 Try the app here:  
+https://ai-expense-analyzer-neha.streamlit.app/
+
 # 🚀 Features
 
 ✅ User Authentication System  
