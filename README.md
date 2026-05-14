@@ -48,7 +48,7 @@ An AI-powered expense tracking and forecasting web application built using Pytho
 ```bash
 AI-Expense-Analyzer/
 │
-├── app.py
+├── main.py
 ├── auth.py
 ├── database.py
 ├── model.py
@@ -66,7 +66,7 @@ AI-Expense-Analyzer/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Expense-Analyzer.git
+git clone https://github.com/Nehanayar/AI-Expense-Analyzer.git
 ```
 
 ## 2️⃣ Install Dependencies
