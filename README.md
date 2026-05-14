@@ -88,7 +88,7 @@ streamlit run main.py
 
 This project requires email credentials for sending alerts and reports.
 
-Create a `.env` file locally or configure Streamlit Secrets:
+Create a `env` file locally or configure Streamlit Secrets:
 
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=your_app_password
