@@ -61,7 +61,6 @@ AI-Expense-Analyzer/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── .env
 ```
 
 ---
