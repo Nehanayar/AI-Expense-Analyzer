@@ -68,7 +68,7 @@ def predict_next_month(model, df):
         avg = prophet_df["y"].mean()
         return round(avg, 2), round(avg*0.9,2), round(avg*1.1,2), "Not enough data"
 
-    future = model.make_future_dataframe(periods=1, freq='M')
+    future = model.make_future_dataframe(periods=1, freq='MS')
     forecast = model.predict(future)
 
     prediction = forecast.iloc[-1]["yhat"]
