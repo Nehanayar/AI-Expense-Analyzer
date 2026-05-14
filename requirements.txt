@@ -10,6 +10,4 @@ python-dotenv
 prophet
 joblib
 numpy
-transformers
-huggingface-hub
-bcrypt
+bcrypt==4.0.1
